@@ -20,5 +20,5 @@ console.log(blockLet);//throw error
 console.log(blockConst);//throw error 
 
 console.log(functionVar);//throw error
-console.log(functionLet);
-console.log(functionConst);
+console.log(functionLet);//throw error 
+console.log(functionConst);//throw error
