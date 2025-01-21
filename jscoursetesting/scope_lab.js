@@ -22,3 +22,4 @@ console.log(blockConst);//throw error
 console.log(functionVar);//throw error
 console.log(functionLet);//throw error 
 console.log(functionConst);//throw error
+
