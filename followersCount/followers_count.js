@@ -20,3 +20,8 @@ else if(count === 20)
 
     }
 }
+function resetCount(){
+    count = 0;
+    document.getElementById('countDisplay').innerHTML = count;
+    alert("The Followers count has been reset")
+}
