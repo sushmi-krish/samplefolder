@@ -35,10 +35,13 @@ function startTest() {
                 if (timeElapsed !== 0 && !isNaN(typedWords)) {
                     wpm = Math.round((typedWords / timeElapsed) * 60);
                 }
+                var totalLength = userTypedText.length;
+                console.log(totalLength)
     
                 // Display the results
                 var outputDiv = document.getElementById("output");
                 outputDiv.innerHTML = "<h2>Typing Test Results:</h2>" +
+                "<p> Total Length :"+totalLength +"</p>"+
                     "<p>Words Typed: " + typedWords + "</p>" +
                     "<p>Time Elapsed: " + timeElapsed.toFixed(2) + " seconds</p>" +
                     "<p>Words Per Minute (WPM): " + wpm + "</p>";
