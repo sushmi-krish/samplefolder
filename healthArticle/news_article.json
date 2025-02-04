@@ -1,0 +1,23 @@
+{
+    "articles":[
+        {
+            "title":"stay informed weekly roundup of top stories in sport",
+            "description":"The latest international sports news and results, from football to athletics.",
+            "news_list":[
+                "New York wins WNBA title, nearly nabs World Series",
+                "Denis Law obituary: fond farewell to 'the King of the Stretford End'",
+                "Can England's Euros team hold their nerve?"
+            ]
+        },
+        {
+            "title":"What Sports Drinks Should Athletes Consume?",
+            "description":"Sports drinks can help replace water, energy, and electrolytes lost during intense workouts.",
+            "news_list":[
+                "Athletes should consider drinking sports drinks during high-intensity exercise that lasts longer than 45 minutes.",
+                "Electrolytes are essential minerals like calcium, potassium, and sodium that are vital for bodily function.",
+                "Sports drinks can be helpful before, during, and after exercise. "
+            ]
+        }
+
+    ]
+}
